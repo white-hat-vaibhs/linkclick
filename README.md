@@ -4,7 +4,7 @@ A chrome extension which will enable you to reach your favorite website quickly.
 
 
 
-INSTALL 
+#INSTALL 
 
 
 1. Clone or download this repository.
@@ -26,12 +26,11 @@ INSTALL
 
 
 
-CUSTOMIZE
+#CUSTOMIZE
 
 1. Open popup.html with any text editor.
 
 2. Customize the links, media and texts. 
-
 
 
 
