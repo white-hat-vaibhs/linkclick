@@ -1,0 +1,9 @@
+{
+	"manifest_version": 2,
+	"name": "Link Click (Beta)",
+	"description": "Link Click is a new chrome extension to make your links handy. It will help you reach to website easily.",
+	"version": "0.1",
+	"browser_action":{
+		"default_popup":"popup.html"
+	}
+}
