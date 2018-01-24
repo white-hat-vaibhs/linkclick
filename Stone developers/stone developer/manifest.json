@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "Stone Developers",
+	"description": "Stone Developers is a new chrome extension to make your links handy. It will help you reach to website easily.Developed and designed by Vaibhav",
+	"version": "0.1",
+	"browser_action":{
+		"default_icon": "Webpage.png",
+		"default_popup":"popup.html"
+
+	}
+}
